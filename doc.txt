@@ -1,0 +1,5 @@
+====================2013-10-27=============================
+==how to==
+	1、在sublime菜单栏中点击Preferences>Broswe Package...
+	2、将插件gurun文件夹拷贝到此文件夹下
+	3、可通过“Default (Windows).sublime-keymap”文件修改默认快捷键

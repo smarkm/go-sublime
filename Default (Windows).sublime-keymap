@@ -1,0 +1,10 @@
+[
+ { 
+ "keys": ["f12"],
+ "command": "gorun"
+ },
+{ 
+ "keys": ["ctrl+shift+f"],
+ "command": "gofmt"
+ }
+]
